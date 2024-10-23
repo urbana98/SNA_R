@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "01-Úvod.html",
+    "href": "01-Úvod.html",
+    "title": "SNA",
+    "section": "",
+    "text": "viz ?@sec-úvod\n\n\n\ntest\n\n\n\n\n\n\n\n\nNote\n\n\n\ntest"
+  },
+  {
+    "objectID": "01-Úvod.html#co-je-sna",
+    "href": "01-Úvod.html#co-je-sna",
+    "title": "SNA",
+    "section": "",
+    "text": "viz ?@sec-úvod\n\n\n\ntest\n\n\n\n\n\n\n\n\nNote\n\n\n\ntest"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Summary\nIn summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Úvod",
+    "section": "",
+    "text": "Úvod\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2\n\n\nTest odkazu na"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "References"
+  }
+]

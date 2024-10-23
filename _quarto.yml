@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+book:
+  title: "Social Network Analysis in R"
+  author: "Adam Urban"
+  date: "22/10/2024"
+  search: true
+  repo-url: https://github.com/urbana98/Quarto-book
+  repo-actions: [edit]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
+  chapters:
+    - index.qmd
+    - 01-Úvod.qmd
+    
+  
+comments:
+  hypothesis: true
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrbook
+
+editor: visual
+

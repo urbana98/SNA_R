@@ -1,0 +1,13 @@
+# SNA
+
+## Co je SNA?
+
+### Využití
+
+viz @sec-úvod
+
+![test](images/clipboard-672008679.png){fig-align="center"}
+
+::: callout-note
+test
+:::
